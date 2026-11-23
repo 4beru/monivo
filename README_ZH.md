@@ -44,10 +44,9 @@ Monivo 将日常财务管理融入自然语言对话：你可以直接记录收�
 ### 应用界面
 
 <p align="center">
-  <img src="./client/assets/images/record-transactions.png" width="23%" alt="对话记账" />
-  <img src="./client/assets/images/analysis.png" width="23%" alt="财务分析" />
-  <img src="./client/assets/images/skills.png" width="23%" alt="AI 技能扩展" />
-  <img src="./client/assets/images/transfer.png" width="23%" alt="转账与资产管理" />
+  <img src="./client/assets/images/record-transactions.png" width="33%" alt="对话记账" />
+  <img src="./client/assets/images/skills.png" width="33%" alt="AI 技能扩展" />
+  <img src="./client/assets/images/transfer.png" width="33%" alt="转账与资产管理" />
 </p>
 
 <p align="center"><sub>对话记账 · 财务洞察 · 技能扩展 · 转账管理</sub></p>
