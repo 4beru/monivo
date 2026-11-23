@@ -20,6 +20,10 @@
 </p>
 
 <p align="center">
+  <img src="./client/assets/images/icon_flutter.png" width="72" alt="Flutter icon" />
+</p>
+
+<p align="center">
   <a href="#核心功能">核心功能</a> ·
   <a href="#系统架构">系统架构</a> ·
   <a href="#快速开始">快速开始</a> ·

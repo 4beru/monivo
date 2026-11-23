@@ -20,6 +20,10 @@
 </p>
 
 <p align="center">
+  <img src="./client/assets/images/icon_flutter.png" width="72" alt="Flutter icon" />
+</p>
+
+<p align="center">
   <a href="#features">Features</a> ·
   <a href="#architecture">Architecture</a> ·
   <a href="#getting-started">Getting started</a> ·
