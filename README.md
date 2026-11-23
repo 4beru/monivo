@@ -46,10 +46,9 @@ Rather than switching between spreadsheets, forms, and dashboards, Monivo brings
 ### Inside the app
 
 <p align="center">
-  <img src="./client/assets/images/record-transactions.png" width="23%" alt="Record transactions through chat" />
-  <img src="./client/assets/images/analysis.png" width="23%" alt="Explore financial analysis" />
-  <img src="./client/assets/images/skills.png" width="23%" alt="Use financial agent skills" />
-  <img src="./client/assets/images/transfer.png" width="23%" alt="Manage transfers and assets" />
+  <img src="./client/assets/images/record-transactions.png" width="33%" alt="Record transactions through chat" />
+  <img src="./client/assets/images/skills.png" width="33%" alt="Use financial agent skills" />
+  <img src="./client/assets/images/transfer.png" width="33%" alt="Manage transfers and assets" />
 </p>
 
 <p align="center">
